@@ -1,3 +1,8 @@
+//@import "sanitize.css/sanitize"; //from node_modules
+//@import "normalize.css/normalize"; //from node_modules
+@import "sanitize";
+@import "normalize";
+
 .App {
   text-align: center;
 }
